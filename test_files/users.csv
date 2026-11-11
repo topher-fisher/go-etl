@@ -1,0 +1,7 @@
+id,name,email,spent
+1,  alice smith ,ALICE@Example.com,49.99
+2,bob jones,invalid-email,15.00
+3,charlie brown,charlie@domain.org,120.50
+4,diana prince,Diana@Hero.net,300.00
+5,,not-a-number@test.io,invalid_float
+6,evan wright,evan@test.io,12.75
